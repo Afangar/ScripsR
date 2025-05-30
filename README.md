@@ -11,3 +11,7 @@ It is a code to perform a Nipals method imputation on NaN in proteomics data.
 - Upset intersections
 
 Code to quickly perform upset data manipulation, thus separating the intersections between columns that have an intensity in our proteomics data. This works to determine under what conditions of our experiment certain proteins or genes are expressed.
+
+- ManiNetCluster
+
+This is code on how to use ManiNetCluster from a bash server with SLURM
