@@ -16,6 +16,6 @@ Code to quickly perform upset data manipulation, thus separating the intersectio
 
 This is code on how to use ManiNetCluster from a bash server with SLURM
 
-- Bayesian networks and compare the
+- Bayesian networks and compare them
 
 This is a code to generate Bayesian networks from two different matrices, in this case Proteomics and Transcriptomics, analyze each of them, and then generate a comparison of the two.
