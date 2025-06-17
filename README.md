@@ -19,3 +19,7 @@ This is code on how to use ManiNetCluster from a bash server with SLURM
 - Bayesian networks and compare them
 
 This is a code to generate Bayesian networks from two different matrices, in this case Proteomics and Transcriptomics, analyze each of them, and then generate a comparison of the two.
+
+- Heatmap
+
+This script explains each modifiable variable to create a heatmap in R.
