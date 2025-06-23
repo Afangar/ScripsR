@@ -23,3 +23,7 @@ This is a code to generate Bayesian networks from two different matrices, in thi
 - Heatmap
 
 This script explains each modifiable variable to create a heatmap in R.
+
+- volcanoPlot
+
+This script shows how to make a volcano plot with proteomics data, usually extracted from Perseus, in which NaNs must be eliminated and some adjustments made.
